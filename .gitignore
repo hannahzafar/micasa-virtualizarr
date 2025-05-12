@@ -1,3 +1,7 @@
 old/
 .ipynb_checkpoints
 *.json
+
+# pixi environments
+.pixi
+*.egg-info
